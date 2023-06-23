@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "24 Hrs Urine Protin",
+    "Price": 340,
+    "IsActived": true,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Anti-dsDNA",
+    "Price": 1250,
+    "IsActived": true,
+    "CategoryId": 1
+  },
+  {
+    "Name": "LDL",
+    "Price": 1200,
+    "IsActived": true,
+    "CategoryId": 1
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "Mohammad Harun",
+    "Gender": "Male",
+    "Designation": "Manager",
+    "IsActived": true
+  },
+  {
+    "Name": "Mohammad Ismail",
+    "Gender": "Male",
+    "Designation": "Computer Operator",
+    "IsActived": true
+  },
+  {
+    "Name": "Mohammad Borhan Uddin",
+    "Gender": "Male",
+    "Designation": "Accountant",
+    "IsActived": true
+  },
+  {
+    "Name": "Dr. Avijet Saha",
+    "Gender": "Male",
+    "Designation": "Medical Officer",
+    "IsActived": true
+  },
+  {
+    "Name": "Dr. Taleya Iqbal",
+    "Gender": "Male",
+    "Designation": "Medical Officer",
+    "IsActived": true
+  },
+  {
+    "Name": "Dr. Yasmin Sultana",
+    "Gender": "Female",
+    "Designation": "Medical Officer",
+    "IsActived": true
+  },
+  {
+    "Name": "Dr. Tonmoy Shil",
+    "Gender": "Male",
+    "Designation": "Medical Officer",
+    "IsActived": true
+  },
+  {
+    "Name": "Chandak Barua",
+    "Gender": "Male",
+    "Designation": "Lab Technician",
+    "IsActived": true
+  },
+  {
+    "Name": "Ritu Akter",
+    "Gender": "Female",
+    "Designation": "Nurse",
+    "IsActived": true
+  },
+  {
+    "Name": "Momtaz Akter",
+    "Gender": "Female",
+    "Designation": "Nurse",
+    "IsActived": true
+  },
+  {
+    "Name": "Abdul Kader",
+    "Gender": "Male",
+    "Designation": "Security Guard",
+    "IsActived": true
+  },
+  {
+    "Name": "Mohammad Mahim Uddin",
+    "Gender": "Male",
+    "Designation": "Security Guard",
+    "IsActived": true
+  },
+  {
+    "Name": "Md. Belal Hossen",
+    "Gender": "Male",
+    "Designation": "Ambulance Driver",
+    "IsActived": true
+  },
+  {
+    "Name": "Mithun Shorma",
+    "Gender": "Male",
+    "Designation": "Marketing Assistant",
+    "IsActived": true
+  },
+  {
+    "Name": "Sumona Chak",
+    "Gender": "Female",
+    "Designation": "Receptionist & Cum Lab Technologist",
+    "IsActived": true
+  }
+]

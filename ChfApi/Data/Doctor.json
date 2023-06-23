@@ -1,0 +1,72 @@
+[
+  {
+    "DoctorName": "Prof. Dr. Prabir Kumar Das",
+    "Gender": "Male",
+    "Phone": "01711761175",
+    "Specialist": "MBBS, FCPS, MD, FACC (USA)",
+    "IsActivated": true
+  },
+  {
+    "DoctorName": "Dr. A.K Boshak",
+    "Gender": "Male",
+    "Phone": "01715265238",
+    "Specialist": "MBBS, MD (Cardiology)",
+    "IsActivated": true
+  },
+  {
+    "DoctorName": "Dr. S.C Dhar",
+    "Gender": "Male",
+    "Phone": "01819314764",
+    "Specialist": "MBBS (Dhaka), D Card (DU)",
+    "IsActivated": true
+  },
+  {
+    "DoctorName": "Prof. Dr. Sujat Paul",
+    "Gender": "Male",
+    "Phone": "01711762582",
+    "Specialist": "FCPS (Medicine), Medicine Consultant",
+    "IsActivated": true
+  },
+  {
+    "DoctorName": "Prof. Dr. Pradip Kumar Dutta",
+    "Gender": "Male",
+    "Phone": "01819314623",
+    "Specialist": "MBBS, MD (Nephrology), FCPS (Medicine)",
+    "IsActivated": true
+  },
+  {
+    "DoctorName": "Prof. Dr. Anowarul Hoque Chowdhury",
+    "Gender": "Male",
+    "Phone": "01819317177",
+    "Specialist": "MBBS, MCPS, MD, (Cardiology)",
+    "IsActivated": true
+  },
+  {
+    "DoctorName": "Prof. Dr. M A Rouf",
+    "Gender": "Male",
+    "Phone": "",
+    "Specialist": "MBBS, FCPS, D Card, DTM&H (Bankok)",
+    "IsActivated": true
+  },
+  {
+    "DoctorName": "Prof. Dr. Md. Abu Tarek Iqbal",
+    "Gender": "Male",
+    "Phone": "01711107987",
+    "Specialist": "MBBS, MD (Medicine), MD (Cardilogy)",
+    "IsActivated": true
+  },
+  {
+    "DoctorName": "Dr. A K M Nasir Uddin",
+    "Gender": "Male",
+    "Phone": "01815118000",
+    "Specialist": "MBBS (Dhaka), D-Card, Consultant & Cardiology Medicine",
+    "IsActivated": true
+  },
+  {
+    "DoctorName": "Hasina Akter Lipi",
+    "Gender": "Female",
+    "Phone": "01720590564",
+    "Specialist": "Nutrition Specialist",
+    "IsActivated": true
+  }
+]

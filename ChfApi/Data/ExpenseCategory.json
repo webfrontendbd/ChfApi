@@ -1,0 +1,18 @@
+[
+  {
+    "CategoryName": "Snacks Bill",
+    "Code": "SNA"
+  },
+  {
+    "CategoryName": "Internet Bill",
+    "Code": "INTER"
+  },
+  {
+    "CategoryName": "Electricity Bill",
+    "Code": "ELEC"
+  },
+  {
+    "CategoryName": "Salaries",
+    "Code": "SAL"
+  }
+]
