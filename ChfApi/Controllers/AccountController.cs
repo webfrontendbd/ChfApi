@@ -47,7 +47,7 @@ namespace ChfApi.Controllers
         [HttpPost("login")]
         public async Task<ActionResult<TokenDto>> Login(LoginDto loginDto)
         {
-            var user = await _userManager.Users.SingleOrDefaultAsync(x => x.UserName == loginDto.Username);
+            var user = await _userManager.Users.FirstOrDefaultAsync(x => x.UserName == loginDto.Username);
             if (user == null) return Unauthorized("Invalid username");
 
             var reuslt = await _userManager.CheckPasswordAsync(user, loginDto.Password);

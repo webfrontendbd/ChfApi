@@ -8,8 +8,6 @@ using ChfApi.Dtos.ReportDtos;
 using ChfApi.Interfaces;
 using System.Reflection;
 using System.Text;
-using System.Text.Json;
-using CloudinaryDotNet;
 using ChfApi.Helpers;
 
 namespace ChfApi.Services
